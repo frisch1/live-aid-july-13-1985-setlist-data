@@ -2,7 +2,13 @@
 ## Setlists + DVD Tracks as Structured Data (with Timings)
 Don't ask. A project to organize my DVDs in my video library led to this rathole.
 The Excel files and TSV files are identical, just one with formatting.
-The setlist pulls from a number of sources and includes http://liveaid.free.fr/pages/liveaidtimesdetaileduk.html, https://en.wikipedia.org/wiki/Live_Aid and https://www.setlist.fm/festivals/live-aid-13d6b9c1.html, checked against the simulcasts.
+The setlist pulls from a number of sources and includes:
+
+* http://liveaid.free.fr/pages/liveaidtimesdetaileduk.html
+* https://en.wikipedia.org/wiki/Live_Aid
+* https://www.setlist.fm/festivals/live-aid-13d6b9c1.html
+
+Times were checked against the simulcasts.
 
 Note for the overall timing, the individual times -- both London and Philadelphia, are accurate and two-sourced.
 
