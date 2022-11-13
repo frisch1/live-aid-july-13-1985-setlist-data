@@ -6,3 +6,5 @@ The setlist pulls from a number of sources and includes http://liveaid.free.fr/p
 Note for the overall timing, the individual times -- both London and Philadelphia, are accurate and two-sourced.
 
 The mapping to the BBC and MTV simulcasts has a little drift to it due to the 1985 recordings. Assume timing specific to simulcasts may drift 1-2 minutes, though it's corrected at two-hour intervals to adjust.
+
+We claim no copyright or ownership of this data. If someone is organizing their collection in the future, hopefully this data helps to put the right tracks in the right order.
