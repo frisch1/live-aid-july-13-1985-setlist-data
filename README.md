@@ -1,7 +1,7 @@
 # Live Aid - July 13, 1985
 I'm old enough to remember watching bits and pieces in the counselor lounge at [Camp Chen-a-Wanda](https://www.chenawanda.com/) in 1985. It was a great set. It's gotten a little more notice form a new generation via [Bohemian Rhapsody](https://en.wikipedia.org/wiki/Bohemian_Rhapsody_[film]) in 2018, but it's missing the historical context of the pre-Internet, pre-1,000 channel cable world. If 1.9 billion people were watching, including *behind the iron curtain*, that was a huge deal. Phil Collins jumping the Concorde to play both Wembley and Philadelphia... it was a mind bender.
 
-Hell, at Camp Chen-a-Wanda, I forget what negotiations went on and I think the owner shared his cable hookup in rural Thompson, Pensylvania lest the counselors flee __en masse__ to Philadelphia.
+Hell, at Camp Chen-a-Wanda, I forget what negotiations went on and I think the owner shared his cable hookup in rural Thompson, Pensylvania lest the counselors flee *en masse* to Philadelphia.
 
 ## Setlists + DVD Tracks as Structured Data [with Timings]
 Anyway, I found the DVD on eBay and ripped it, and was surprised about half the concern was missing. That led to this investigation, and piecing together the full set list. The outcome of this I figured I'd share to help anyone else. It was a complete rathole, but at least there's clean data for:
@@ -21,12 +21,12 @@ We rummaged around quite a bit and pieced things together. Sources include:
 * [Oz for Africa Setlists - setlist.fm](https://www.setlist.fm/festival/1985/oz-for-africa-3d651cb.html)
 
 ## Files
-* *Live-Aid-Full-Global-Event-Set-List*. TSV and XLSX. The master list. Every single intro, song, and so forth, with times both BST and EDT + annotations. Note the *Live-Aid-Metadata.tsv* is a tab within this spreadsheet.
-* *Live-Aid-DVD-MP4-Tracklist*. TSV and XLSX. The times specific to the DVDs and simulcast, relative to the files and videos vs the actual event time.
-* *Live-Aid-Pre-Recorded-Video-Only-Set-List*. TSV and XLSX. Same as *Live-Aid-Full-Global-Event-Set-List*, but specific to only the pre-recorded videos shown during the simulcast.
-* *Live-Aid-London-Live-Set-List*. TSV and XLSX. Same as *Live-Aid-Full-Global-Event-Set-List*, but London only. 
-* *Live-Aid-Philadelphia-Live-Set-List*. TSV and XLSX. Same as *Live-Aid-Full-Global-Event-Set-List*, but Philadelphia only.
-* *Live-Aid-Oz-For-Africa-Sydney-Live-Set-List*. TSV and XLSX. Same as *Live-Aid-DVD-MP4-Tracklist*, but specific just to Sydney.
+* **Live-Aid-Full-Global-Event-Set-List**. TSV and XLSX. The master list. Every single intro, song, and so forth, with times both BST and EDT + annotations. Note the **Live-Aid-Metadata.tsv** is a tab within this spreadsheet.
+* **Live-Aid-DVD-MP4-Tracklist**. TSV and XLSX. The times specific to the DVDs and simulcast, relative to the files and videos vs the actual event time.
+* **Live-Aid-Pre-Recorded-Video-Only-Set-List**. TSV and XLSX. Same as **Live-Aid-Full-Global-Event-Set-List**, but specific to only the pre-recorded videos shown during the simulcast.
+* **Live-Aid-London-Live-Set-List**. TSV and XLSX. Same as **Live-Aid-Full-Global-Event-Set-List**, but London only. 
+* **Live-Aid-Philadelphia-Live-Set-List**. TSV and XLSX. Same as **Live-Aid-Full-Global-Event-Set-List**, but Philadelphia only.
+* **Live-Aid-Oz-For-Africa-Sydney-Live-Set-List**. TSV and XLSX. Same as **Live-Aid-DVD-MP4-Tracklist**, but specific just to Sydney.
 
 ## Videos
 You can find the videos of varying provenance on YouTube and the Internet Archive. FWIW, the Internet Archive seems to be the whole enchilada:
