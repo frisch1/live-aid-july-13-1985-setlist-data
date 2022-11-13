@@ -1,14 +1,14 @@
 # Live Aid - July 13, 1985
-I'm old enough to remember watching bits and pieces in the counselor lounge at (Camp Chen-a-Wanda)[https://www.chenawanda.com/] in 1985. It was a great set. It's gotten a little more notice form a new generation via (Bohemian Rhapsody)[https://en.wikipedia.org/wiki/Bohemian_Rhapsody_(film)] in 2018, but it's missing the historical context of the pre-Internet, pre-1,000 channel cable world. If 1.9 billion people were watching, including *behind the iron curtain*, that was a huge deal. Phil Collins jumping the Concorde to play both Wembley and Philadelphia... it was a mind bender.
+I'm old enough to remember watching bits and pieces in the counselor lounge at [Camp Chen-a-Wanda](https://www.chenawanda.com/) in 1985. It was a great set. It's gotten a little more notice form a new generation via [Bohemian Rhapsody](https://en.wikipedia.org/wiki/Bohemian_Rhapsody_[film]) in 2018, but it's missing the historical context of the pre-Internet, pre-1,000 channel cable world. If 1.9 billion people were watching, including *behind the iron curtain*, that was a huge deal. Phil Collins jumping the Concorde to play both Wembley and Philadelphia... it was a mind bender.
 
 Hell, at Camp Chen-a-Wanda, I forget what negotiations went on and I think the owner shared his cable hookup in rural Thompson, Pensylvania lest the counselors flee __en masse__ to Philadelphia.
 
-## Setlists + DVD Tracks as Structured Data (with Timings)
+## Setlists + DVD Tracks as Structured Data [with Timings]
 Anyway, I found the DVD on eBay and ripped it, and was surprised about half the concern was missing. That led to this investigation, and piecing together the full set list. The outcome of this I figured I'd share to help anyone else. It was a complete rathole, but at least there's clean data for:
-* The full four-disc (Live Aid DVD)[https://www.amazon.com/Live-Aid-4-Disc-Set/dp/B0002Z9HT8/ref=sr_1_1?keywords=live+aid+1985+dvd&qid=1668378434&sr=8-1]
-* The (BBC Simulcast)[https://www.youtube.com/watch?v=oHjXlgBYt3s&list=PLI-pezvNEo4_RqAqFsaprCmKCPMGE4x3V]
-* The (MTV Simulcast)[https://www.youtube.com/playlist?list=PLEcjI0AU6TaYVqDe412kMSWlPgWokUMLT]
-* The (Oz for Africa)[https://archive.org/details/1985.07.13_LIVE_AID_30_The_MTV_Broadcast_OZ_For_Africa_Full_4_hour_concert_Austr] show
+* The full four-disc [Live Aid DVD](https://www.amazon.com/Live-Aid-4-Disc-Set/dp/B0002Z9HT8/ref=sr_1_1?keywords=live+aid+1985+dvd&qid=1668378434&sr=8-1)
+* The [BBC Simulcast](https://www.youtube.com/watch?v=oHjXlgBYt3s&list=PLI-pezvNEo4_RqAqFsaprCmKCPMGE4x3V)
+* The [MTV Simulcast](https://www.youtube.com/playlist?list=PLEcjI0AU6TaYVqDe412kMSWlPgWokUMLT)
+* The [Oz for Africa](https://archive.org/details/1985.07.13_LIVE_AID_30_The_MTV_Broadcast_OZ_For_Africa_Full_4_hour_concert_Austr) show
 
 ## Sources
 We rummaged around quite a bit and pieced things together. Sources include:
@@ -21,14 +21,14 @@ We rummaged around quite a bit and pieced things together. Sources include:
 
 ## Videos
 You can find the videos of varying provenance on YouTube and the Internet Archive. FWIW, the Internet Archive seems to be the whole enchilada:
-* Internet Archive: (Live Aid 4-Disc DVD Set)[https://archive.org/details/live-aid-july-13-1985-dvd-set-mkv]
-* Internet Archive: Live Aid - MTV Simulcast (Part 1)[https://archive.org/details/live-aid-mtv-broadcast-part-1] • (Part 2)[https://archive.org/details/live-aid-mtv-broadcast-part-2]
-* Internet Archive: (Live Aid - BBC Simulcast)[https://archive.org/details/live-aid-1985-full-bbc-broadcast]
-* Internet Archive: (Oz for Australia - MTV Simulcast)[https://archive.org/details/1985.07.13_LIVE_AID_30_The_MTV_Broadcast_OZ_For_Africa_Full_4_hour_concert_Austr]
-* YouTube: (Live Aid Official Channel)[https://www.youtube.com/channel/UCUAVzSGkkTa-IoMx_x1XK4Q/videos]
-* YouTube: (Live Aid - BBC Simulcast)[https://www.youtube.com/playlist?list=PLI-pezvNEo4_RqAqFsaprCmKCPMGE4x3V]
-* YouTube: (Live Aid - MTV Simulcast)[https://www.youtube.com/watch?v=CmFa0dUJRRA&list=PLEcjI0AU6TaYVqDe412kMSWlPgWokUMLT]
-* YouTube: (Oz for Africa - MTV Simulcast)[https://www.youtube.com/watch?v=he437NGOQOY&list=PLVI72isCZfaKePz7YxfE3jOo3_EuZwh43]
+* Internet Archive: [Live Aid 4-Disc DVD Set](https://archive.org/details/live-aid-july-13-1985-dvd-set-mkv)
+* Internet Archive: Live Aid - MTV Simulcast [Part 1](https://archive.org/details/live-aid-mtv-broadcast-part-1) • [Part 2](https://archive.org/details/live-aid-mtv-broadcast-part-2)
+* Internet Archive: [Live Aid - BBC Simulcast](https://archive.org/details/live-aid-1985-full-bbc-broadcast)
+* Internet Archive: [Oz for Australia - MTV Simulcast](https://archive.org/details/1985.07.13_LIVE_AID_30_The_MTV_Broadcast_OZ_For_Africa_Full_4_hour_concert_Austr)
+* YouTube: [Live Aid Official Channel](https://www.youtube.com/channel/UCUAVzSGkkTa-IoMx_x1XK4Q/videos)
+* YouTube: [Live Aid - BBC Simulcast](https://www.youtube.com/playlist?list=PLI-pezvNEo4_RqAqFsaprCmKCPMGE4x3V)
+* YouTube: [Live Aid - MTV Simulcast](https://www.youtube.com/watch?v=CmFa0dUJRRA&list=PLEcjI0AU6TaYVqDe412kMSWlPgWokUMLT)
+* YouTube: [Oz for Africa - MTV Simulcast](https://www.youtube.com/watch?v=he437NGOQOY&list=PLVI72isCZfaKePz7YxfE3jOo3_EuZwh43)
 
 ## Details
 Times were checked against the simulcasts. You can find folks who pieced it together online on YouTube from the BBC and YouTube (links above). 
