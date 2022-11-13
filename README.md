@@ -1,4 +1,4 @@
-# live-aid-setlist-data
+# Live Aid - July 13, 1985 - Setlist as structured data
 Don't ask. A project to organize my DVDs in my video library led to this rathole.
 The Excel files and TSV files are identical, just one with formatting.
 The setlist pulls from a number of sources and includes http://liveaid.free.fr/pages/liveaidtimesdetaileduk.html, https://en.wikipedia.org/wiki/Live_Aid and https://www.setlist.fm/festivals/live-aid-13d6b9c1.html, checked against the simulcasts.
