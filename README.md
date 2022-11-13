@@ -12,12 +12,13 @@ Anyway, I found the DVD on eBay and ripped it, and was surprised about half the 
 
 ## Sources
 We rummaged around quite a bit and pieced things together. Sources include:
-* http://liveaid.free.fr/pages/liveaidtimesdetaileduk.html
-* https://concerts.fandom.com/wiki/OZ_FOR_AFRICA
-* https://en.wikipedia.org/wiki/Live_Aid
-* https://en.wikipedia.org/wiki/Oz_for_Africa
-* https://www.setlist.fm/festivals/live-aid-13d6b9c1.html
-* https://www.setlist.fm/festival/1985/oz-for-africa-3d651cb.html
+* [Detailled list of all the artist having performed at the Live Aid concert, July 13th, 1985 - free.fr](http://liveaid.free.fr/pages/liveaidtimesdetaileduk.html)
+* [Oz for Africa - fandom.com](https://concerts.fandom.com/wiki/OZ_FOR_AFRICA)
+* [Live Aid - discogs.com](https://www.discogs.com/release/19211053-Various-Live-Aid)
+* [Live Aid - wikipedia.org](https://en.wikipedia.org/wiki/Live_Aid)
+* [Oz for Africa - wikipedia.org](https://en.wikipedia.org/wiki/Oz_for_Africa)
+* [Live Aid Setlists - setlist.fm](https://www.setlist.fm/festivals/live-aid-13d6b9c1.html)
+* [Oz for Africa Setlists - setlist.fm](https://www.setlist.fm/festival/1985/oz-for-africa-3d651cb.html)
 
 ## Videos
 You can find the videos of varying provenance on YouTube and the Internet Archive. FWIW, the Internet Archive seems to be the whole enchilada:
@@ -30,7 +31,7 @@ You can find the videos of varying provenance on YouTube and the Internet Archiv
 * YouTube: [Live Aid - MTV Simulcast](https://www.youtube.com/watch?v=CmFa0dUJRRA&list=PLEcjI0AU6TaYVqDe412kMSWlPgWokUMLT)
 * YouTube: [Oz for Africa - MTV Simulcast](https://www.youtube.com/watch?v=he437NGOQOY&list=PLVI72isCZfaKePz7YxfE3jOo3_EuZwh43)
 
-## Details
+## Other Details
 Times were checked against the simulcasts. You can find folks who pieced it together online on YouTube from the BBC and YouTube (links above). 
 
 Note for the overall timing, the individual times -- both London and Philadelphia, are accurate and two-sourced.
