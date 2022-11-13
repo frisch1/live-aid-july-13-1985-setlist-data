@@ -6,6 +6,8 @@ The setlist pulls from a number of sources and includes http://liveaid.free.fr/p
 
 Note for the overall timing, the individual times -- both London and Philadelphia, are accurate and two-sourced.
 
+This data includes the track list and timing for the 4-Disc Live AID DVD set, plus the full 16-hour simulcasts of MTV and BBC from the day. It also includes a setlist and timing (by set) for the four-hour Oz for Australia.
+
 The mapping to the BBC and MTV simulcasts has a little drift to it due to the 1985 recordings. Assume timing specific to simulcasts may drift 1-2 minutes, though it's corrected at two-hour intervals to adjust.
 
 I claim no copyright or ownership of this data (nor are there any videos here... go buy them!] However, someone is organizing their collection in the future, hopefully this data helps to put the right tracks in the right order.
