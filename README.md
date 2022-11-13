@@ -20,6 +20,14 @@ We rummaged around quite a bit and pieced things together. Sources include:
 * [Live Aid Setlists - setlist.fm](https://www.setlist.fm/festivals/live-aid-13d6b9c1.html)
 * [Oz for Africa Setlists - setlist.fm](https://www.setlist.fm/festival/1985/oz-for-africa-3d651cb.html)
 
+## Files
+* *Live-Aid-Full-Global-Event-Set-List*. TSV and XLSX. The master list. Every single intro, song, and so forth, with times both BST and EDT + annotations. Note the *Live-Aid-Metadata.tsv* is a tab within this spreadsheet.
+* *Live-Aid-DVD-MP4-Tracklist*. TSV and XLSX. The times specific to the DVDs and simulcast, relative to the files and videos vs the actual event time.
+* *Live-Aid-Pre-Recorded-Video-Only-Set-List*. TSV and XLSX. Same as *Live-Aid-Full-Global-Event-Set-List*, but specific to only the pre-recorded videos shown during the simulcast.
+* *Live-Aid-London-Live-Set-List*. TSV and XLSX. Same as *Live-Aid-Full-Global-Event-Set-List*, but London only. 
+* *Live-Aid-Philadelphia-Live-Set-List*. TSV and XLSX. Same as *Live-Aid-Full-Global-Event-Set-List*, but Philadelphia only.
+* *Live-Aid-Oz-For-Africa-Sydney-Live-Set-List*. TSV and XLSX. Same as *Live-Aid-DVD-MP4-Tracklist*, but specific just to Sydney.
+
 ## Videos
 You can find the videos of varying provenance on YouTube and the Internet Archive. FWIW, the Internet Archive seems to be the whole enchilada:
 * Internet Archive: [Live Aid 4-Disc DVD Set](https://archive.org/details/live-aid-july-13-1985-dvd-set-mkv)
