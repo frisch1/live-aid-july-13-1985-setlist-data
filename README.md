@@ -29,6 +29,7 @@ We rummaged around quite a bit and pieced things together. Sources include:
 * **Live-Aid-London-Live-Set-List**. TSV and XLSX. Same as **Live-Aid-Full-Global-Event-Set-List**, but London only. 
 * **Live-Aid-Philadelphia-Live-Set-List**. TSV and XLSX. Same as **Live-Aid-Full-Global-Event-Set-List**, but Philadelphia only.
 * **Live-Aid-Oz-For-Africa-Sydney-Live-Set-List**. TSV and XLSX. Same as **Live-Aid-DVD-MP4-Tracklist**, but specific just to Sydney.
+* **live-aid-posters**. A folder of the official logos, posters, etc. found all over the Internet. Mostly standardized to a 2:3 1000x1500 jpg. Original logo left as a high-resolution transparent PNG.
 
 ## Videos
 You can find the videos of varying provenance on YouTube and the Internet Archive. FWIW, the Internet Archive seems to be the whole enchilada:
