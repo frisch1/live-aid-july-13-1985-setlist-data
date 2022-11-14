@@ -61,7 +61,9 @@
 			"elevation_feet": 29.5,
 			"elevation_meters": 9,
 			"capacity": 13250,
-			"event_audience": 11000
+			"event_audience": 11000,
+			"wikidata_id": "Q1387499",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/Oz_for_Africa"
 		}
 	}],
 	"television_simulcasts": ["ABC (US)", "MTV (US)", "BBC (UK)", "Channel 7 (AU)", "Channel 9 (AU)", "MTV (AU)"],
