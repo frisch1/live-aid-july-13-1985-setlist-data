@@ -4,7 +4,7 @@ I'm old enough to remember watching bits and pieces in the counselor lounge at [
 Hell, at Camp Chen-a-Wanda, I forget what negotiations went on and I think the owner shared his cable hookup in rural Thompson, Pensylvania lest the counselors flee *en masse* to Philadelphia.
 
 ## Setlists + DVD Tracks as Structured Data [with Timings]
-Anyway, I found the DVD on eBay and ripped it, and was surprised about half the concern was missing. That led to this investigation, and piecing together the full set list. The outcome of this I figured I'd share to help anyone else. It was a complete rathole, but at least there's clean data for:
+Anyway, I found the DVD on eBay and ripped it, and was surprised about half the concert was missing. That led to this investigation, and piecing together the full set list, broadcast vs. actual times, etc. The outcome of this I figured I'd share to help anyone else. It was a complete rathole, but at least there's clean data now for:
 * The full four-disc [Live Aid DVD](https://www.amazon.com/Live-Aid-4-Disc-Set/dp/B0002Z9HT8/ref=sr_1_1?keywords=live+aid+1985+dvd&qid=1668378434&sr=8-1)
 * The [BBC Simulcast](https://www.youtube.com/watch?v=oHjXlgBYt3s&list=PLI-pezvNEo4_RqAqFsaprCmKCPMGE4x3V)
 * The [MTV Simulcast](https://www.youtube.com/playlist?list=PLEcjI0AU6TaYVqDe412kMSWlPgWokUMLT)
@@ -41,6 +41,8 @@ You can find the videos of varying provenance on YouTube and the Internet Archiv
 * YouTube: [Oz for Africa - MTV Simulcast](https://www.youtube.com/watch?v=he437NGOQOY&list=PLVI72isCZfaKePz7YxfE3jOo3_EuZwh43)
 
 ## Other Details
+**Note: If anyone knows -- with sources -- the exact start time, AEST, of Oz for Australia, it's the one datapoint we're missing. It gets cited as "12 hours before" which would equate to 9 am AEST -- that doesn't sound right for a concert.**
+
 Times were checked against the simulcasts. You can find folks who pieced it together online on YouTube from the BBC and YouTube (links above). 
 
 Note for the overall timing, the individual times -- both London and Philadelphia, are accurate and two-sourced.
