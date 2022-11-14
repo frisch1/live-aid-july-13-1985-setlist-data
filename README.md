@@ -34,6 +34,7 @@ You can find the videos of varying provenance on YouTube and the Internet Archiv
 * Internet Archive: Live Aid - MTV Simulcast [Part 1](https://archive.org/details/live-aid-mtv-broadcast-part-1) • [Part 2](https://archive.org/details/live-aid-mtv-broadcast-part-2)
 * Internet Archive: [Live Aid - BBC Simulcast](https://archive.org/details/live-aid-1985-full-bbc-broadcast)
 * Internet Archive: [Oz for Australia - MTV Simulcast](https://archive.org/details/1985.07.13_LIVE_AID_30_The_MTV_Broadcast_OZ_For_Africa_Full_4_hour_concert_Austr)
+* Internet Archive: [Live Aid - Queen Restoration](https://archive.org/details/QueenLiveAid1985CMRestoration)
 * YouTube: [Live Aid Official Channel](https://www.youtube.com/channel/UCUAVzSGkkTa-IoMx_x1XK4Q/videos)
 * YouTube: [Live Aid - BBC Simulcast](https://www.youtube.com/playlist?list=PLI-pezvNEo4_RqAqFsaprCmKCPMGE4x3V)
 * YouTube: [Live Aid - MTV Simulcast](https://www.youtube.com/watch?v=CmFa0dUJRRA&list=PLEcjI0AU6TaYVqDe412kMSWlPgWokUMLT)
