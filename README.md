@@ -42,6 +42,7 @@ You can find the videos of varying provenance on YouTube and the Internet Archiv
 * YouTube: [Live Aid - BBC Simulcast](https://www.youtube.com/playlist?list=PLI-pezvNEo4_RqAqFsaprCmKCPMGE4x3V)
 * YouTube: [Live Aid - MTV Simulcast](https://www.youtube.com/watch?v=CmFa0dUJRRA&list=PLEcjI0AU6TaYVqDe412kMSWlPgWokUMLT)
 * YouTube: [Oz for Africa - MTV Simulcast](https://www.youtube.com/watch?v=he437NGOQOY&list=PLVI72isCZfaKePz7YxfE3jOo3_EuZwh43)
+* YouTube: [Live Aid - Queen Restoration](https://www.youtube.com/watch?v=w7BxzrsbVE4)
 
 ## Other Details
 **Note: If anyone knows -- with sources -- the exact start time, AEST, of Oz for Africa, it's the one datapoint we're missing. It gets cited as "12 hours before" which would equate to 9 am AEST -- that doesn't sound right for a concert.**
