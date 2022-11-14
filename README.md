@@ -41,7 +41,7 @@ You can find the videos of varying provenance on YouTube and the Internet Archiv
 * YouTube: [Oz for Africa - MTV Simulcast](https://www.youtube.com/watch?v=he437NGOQOY&list=PLVI72isCZfaKePz7YxfE3jOo3_EuZwh43)
 
 ## Other Details
-**Note: If anyone knows -- with sources -- the exact start time, AEST, of Oz for Australia, it's the one datapoint we're missing. It gets cited as "12 hours before" which would equate to 9 am AEST -- that doesn't sound right for a concert.**
+**Note: If anyone knows -- with sources -- the exact start time, AEST, of Oz for Africa, it's the one datapoint we're missing. It gets cited as "12 hours before" which would equate to 9 am AEST -- that doesn't sound right for a concert.**
 
 Times were checked against the simulcasts. You can find folks who pieced it together online on YouTube from the BBC and YouTube (links above). 
 
