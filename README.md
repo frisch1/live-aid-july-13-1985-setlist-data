@@ -1,7 +1,7 @@
 # Live Aid - July 13, 1985
 I'm old enough to remember watching bits and pieces in the counselor lounge at [Camp Chen-a-Wanda](https://www.chenawanda.com/) in 1985. Through a window. I wasn't a counselor.
 
-It was a great set. It's gotten a little more notice form a new generation via [Bohemian Rhapsody](https://en.wikipedia.org/wiki/Bohemian_Rhapsody_[film]) in 2018, but it's missing the historical context of the pre-Internet, pre-1,000 channel cable world. If 1.9 billion people were watching, including *behind the Iron Curtain*, that was a huge deal. Phil Collins jumping the Concorde to play both Wembley and Philadelphia... it was a mind bender.
+It was a great set. It's gotten a little more notice from a new generation via [Bohemian Rhapsody](https://en.wikipedia.org/wiki/Bohemian_Rhapsody_[film]) in 2018, but it's missing the historical context of the pre-Internet, pre-1,000 channel cable world. If 1.9 billion people were watching, including *behind the Iron Curtain*, that was a huge deal. Phil Collins jumping the Concorde to play both Wembley and Philadelphia... it was a mind bender.
 
 Hell, at Camp Chen-a-Wanda, I forget what negotiations went on and I think the owner shared his cable hookup for the counselors in rural Thompson, Pennsylvania (probably all 35 channels!) lest the counselors flee *en masse* to Philadelphia.
 
@@ -53,7 +53,7 @@ Note for the overall timing, the individual times -- both London and Philadelphi
 
 This data includes the track list and timing for the 4-Disc Live AID DVD set, plus the full 16-hour simulcasts of MTV and BBC from the day. It also includes a setlist and timing (by set) for the four-hour Oz for Australia.
 
-The mapping to the BBC and MTV simulcasts has a little drift to it due to the 1985 recordings. Assume timing specific to simulcasts may drift 1-2 minutes, though it's corrected at two-hour intervals to adjust.
+The mapping to the BBC and MTV simulcasts has a little drift to it due to the 1985 nature of the recordings. Assume timing specific to simulcasts may drift 1-2 minutes, though it's corrected at two-hour intervals to adjust.
 
 I claim no copyright or ownership of this data (nor are there any videos here... go buy them!] However, someone is organizing their collection in the future, hopefully this data helps to put the right tracks in the right order.
 
