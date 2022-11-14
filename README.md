@@ -3,7 +3,7 @@ I'm old enough to remember watching bits and pieces in the counselor lounge at [
 
 It was a great set. It's gotten a little more notice form a new generation via [Bohemian Rhapsody](https://en.wikipedia.org/wiki/Bohemian_Rhapsody_[film]) in 2018, but it's missing the historical context of the pre-Internet, pre-1,000 channel cable world. If 1.9 billion people were watching, including *behind the Iron Curtain*, that was a huge deal. Phil Collins jumping the Concorde to play both Wembley and Philadelphia... it was a mind bender.
 
-Hell, at Camp Chen-a-Wanda, I forget what negotiations went on and I think the owner shared his cable hookup in rural Thompson, Pensylvania lest the counselors flee *en masse* to Philadelphia.
+Hell, at Camp Chen-a-Wanda, I forget what negotiations went on and I think the owner shared his cable hookup for the counselors in rural Thompson, Pennsylvania (probably all 35 channels!) lest the counselors flee *en masse* to Philadelphia.
 
 ## Setlists + DVD Tracks as Structured Data [with Timings]
 Anyway, I found the DVD on eBay and ripped it, and was surprised about half the concert was missing. That led to this investigation, and piecing together the full set list, broadcast vs. actual times, etc. The outcome of this I figured I'd share to help anyone else. It was a complete rathole, but at least there's clean data now for:
