@@ -1,0 +1,71 @@
+{
+	"title": "Live Aid Concert",
+	"date": {
+		"display": "Saturday, July 13, 1985",
+		"iso": "1985-07-13T00:00:00.000+00:00",
+		"unix": 490075200
+	},
+	"event_time": [{
+		"london": {
+			"start": "1985-07-13T11:00:00.000+01:00",
+			"end": "1985-07-13T21:01:38+01:00",
+			"timezone": "Europe/London",
+			"timezone_abbreviation": "BST"
+		},
+		"philadelphia": {
+			"start": "1985-07-13T11:12:51.000-04:00",
+			"end": "1985-07-14T03:03:57-04:00",
+			"timezone": "America/New_York",
+			"timezone_abbreviation": "EDT"
+		},
+		"sydney": {
+			"start": "1985-07-13T00:00:00+10:00:00",
+			"end": "1985-07-13T00:00:00+10:00:00",
+			"timezone": "Australia/Sydney",
+			"timezone_abbreviation": "AEST",
+			"note": "Event start/end times not confirmed. Best data is '12 hours before Live Aid'"
+		}
+	}],
+	"venues": [{
+		"london": {
+			"event": "Live Aid",
+			"venue": "Wembley Stadium",
+			"address": "London HA9 0WS, United Kingdom",
+			"google_place_id": "ChIJbYd61YERdkgRl-DoXRifT6Y",
+			"latitude": 51.5560247,
+			"longitude": -0.2796177,
+			"elevation_feet": 196.9,
+			"elevation_meters": 60,
+			"capacity": 82000,
+			"event_audience": 72000
+		},
+		"philadelphia": {
+			"event": "Live Aid",
+			"venue": "JFK Stadium",
+			"address": "South Broad Street, Philadelphia, Pennsylvania 19148, United States",
+			"google_place_id": "ChIJbYd61YERdkgRl-DoXRifT6Y",
+			"latitude": 39.9066848,
+			"longitude": -75.1652248,
+			"elevation_feet": 16.4,
+			"elevation_meters": 5,
+			"capacity": 102000,
+			"event_audience": 89484
+		},
+		"sydney": {
+			"event": "Oz for Africa",
+			"venue": "Sydney Entertainment Centre",
+			"address": "60 Hay St, Haymarket NSW 2000, Australia",
+			"google_place_id": "ChIJXRC-wSSuEmsRsQKzoM6vc_g",
+			"latitude": -33.8788032,
+			"longitude": 151.2026433,
+			"elevation_feet": 29.5,
+			"elevation_meters": 9,
+			"capacity": 13250,
+			"event_audience": 11000
+		}
+	}],
+	"television_simulcasts": ["ABC (US)", "MTV (US)", "BBC (UK)", "Channel 7 (AU)", "Channel 9 (AU)", "MTV (AU)"],
+	"television_audience": 1900000000,
+	"wikidata_id": "Q193740",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Live_Aid"
+}
